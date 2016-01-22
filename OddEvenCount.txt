@@ -1,0 +1,36 @@
+//Arjun C. Araneta
+//(C# Tutorial, CSharp Tutorial) Learn how to Program – Counting Odd and Even Numbers
+
+//https://morecodes.wordpress.com/2016/01/22/c-tutorial-csharp-tutorial-learn-how-to-program-counting-odd-and-even-numbers/
+
+/*
+Write a program to count the number of even and odd numbers 
+from a series of numbers from five(5) number inputs of the user.
+*/
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int numInput = 0;
+
+            Console.Write("Enter a number: ");
+            numInput = int.Parse(Console.ReadLine());
+
+            if(numInput % 2 == 0){
+                Console.WriteLine("That is an even number");
+            }else{
+            Console.WriteLine("Yes! an odd number");
+            }
+
+            Console.Read();
+        }
+    }
+}
