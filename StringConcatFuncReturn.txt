@@ -1,0 +1,29 @@
+//Arjun C. Araneta
+//more-codes.com
+//Write a Program that has function which accepts two strings then
+//returns the concatenated version. 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(PrintStrings("Hello", "World"));
+            
+            Console.Read();
+        }
+
+        static string PrintStrings(string strWord1, string strWord2)
+        {
+            string strNewWord = strWord1 + " " + strWord2;
+
+            return strNewWord;
+        }
+    }
+}
