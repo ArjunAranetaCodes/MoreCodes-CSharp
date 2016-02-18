@@ -1,0 +1,33 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            PrintHello("Mark");
+            
+            Console.Read();
+        }
+
+        static void PrintHello(string strName) {
+            Console.WriteLine("Hello " + strName);
+        }
+    }
+}
