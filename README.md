@@ -1,2 +1,2 @@
 # MoreCodes-CSharp
-This repository is for csharp codes of my blog: https://morecodes.wordpress.com/
+This repository is for csharp codes of my blog: http://www.more-codes.com/
