@@ -1,8 +1,8 @@
-# MoreCodes-VBNet
+# MoreCodes - C Sharp (C#) Programming Problems
 This repository is for Visual Basic codes of my blog: https://more-codes.com/
 
 - - - -
-### Easy Problems
+### C Sharp (C#) Easy Programming Problems
 
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.

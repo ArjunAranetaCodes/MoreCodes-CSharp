@@ -1,4 +1,4 @@
-# MoreCodes-CSharp Programming Problems
+# MoreCodes - CSharp Programming Problems
 This repository is for Visual Basic codes of my blog: https://more-codes.com/
 
 1. Basic Output
@@ -13,7 +13,7 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 10. Array/List
 
 - - - -
-### [Easy Problems](Problems/) <- Click to go to Easy Problems
+### [C Sharp (C#) Easy Programming Problems](Problems/) <- Click to go to Easy Problems
 
 1. Write a program that accepts two numbers and find the sum.
 2. Write a program that accepts two numbers and perform all arithmetic operations.
@@ -39,7 +39,7 @@ This repository is for Visual Basic codes of my blog: https://more-codes.com/
 20. Write a program that checks if a string is a palindrome.
 
 - - - -
-### [Loops Problems](Loops/) <- Click to go to Loop Problems
+### [C Sharp (C#) Loops Programming Problems](Loops/) <- Click to go to Loop Problems
 
 1. Write a program that prints the numbers from 1 to 50.
    Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and
