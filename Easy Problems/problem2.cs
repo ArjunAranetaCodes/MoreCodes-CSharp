@@ -1,4 +1,3 @@
-<pre><code>
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,5 +35,3 @@ namespace Problem2{
   }
  }
 }
-
-</code></pre>
