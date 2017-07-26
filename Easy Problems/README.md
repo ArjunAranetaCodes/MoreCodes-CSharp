@@ -1,5 +1,5 @@
 # MoreCodes - C Sharp (C#) Programming Problems
-This repository is for C Sharp (C#) codes of my blog: https://more-codes.com/
+This repository is for C Sharp (C#) codes of my blog: http://more-codes.com/
 
 - - - -
 ### C Sharp (C#) Easy Programming Problems
