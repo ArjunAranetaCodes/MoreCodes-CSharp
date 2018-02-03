@@ -1,8 +1,17 @@
-# MoreCodes - C Sharp (C#) Programming Problems
-This repository is for C Sharp (C#) codes of my blog: http://more-codes.com/
+<h1 align="center">MoreCodes</h1>
+<p align="center"> 
+  <img src="../morecodescir.png"/>
+</p>
+
+<p align="center">
+Join Us on Youtube! <br/>
+<i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
+</p>
+
+#
 
 - - - -
-### C Sharp (C#) Programming Conversion Problems
+### [C Sharp (C#) Conversions Programming problems](../Conversions/) <- Click to go to Conversion problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-CSharp/blob/master/Conversions/problem1.cs" target="_blank">Write a program that converts a number to string.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-CSharp/blob/master/Conversions/problem2.cs" target="_blank">Write a program that converts a string to integer.</a>
@@ -24,3 +33,10 @@ This repository is for C Sharp (C#) codes of my blog: http://more-codes.com/
 18. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-CSharp/blob/master/Conversions/problem18.cs" target="_blank">Write a program that converts liter to milliliter.</a>
 19. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-CSharp/blob/master/Conversions/problem19.cs" target="_blank">Write a program that converts numbers to words.</a>
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-CSharp/blob/master/Conversions/problem20.cs" target="_blank">Write a program that converts a number to its corresponding month (e.g. 1 = January).</a>
+
+#
+
+<p align="center">
+Check out More on our website! <br/>
+<i><u>http://more-codes.com/</u></i>
+</p>
