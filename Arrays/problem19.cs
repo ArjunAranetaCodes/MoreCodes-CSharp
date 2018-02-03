@@ -1,4 +1,4 @@
-
+//Problem 19: Write a program that combines two arrays/lists.
 using System;
 using System.Collections.Generic;
 using System.Linq;

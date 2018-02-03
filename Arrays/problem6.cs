@@ -1,4 +1,4 @@
-
+//Problem 6: Write a program that checks if an array/list contains an element.
 using System;
 using System.Collections.Generic;
 using System.Linq;

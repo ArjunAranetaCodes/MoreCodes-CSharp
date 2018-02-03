@@ -1,4 +1,4 @@
-
+//Problem 12: Write a program that compares two arrays/lists.
 using System;
 using System.Collections.Generic;
 using System.Linq;

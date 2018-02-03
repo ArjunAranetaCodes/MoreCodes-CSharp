@@ -1,4 +1,4 @@
-
+//Problem 18: Write a program that sorts an array/list in descending order.
 using System;
 using System.Collections.Generic;
 using System.Linq;

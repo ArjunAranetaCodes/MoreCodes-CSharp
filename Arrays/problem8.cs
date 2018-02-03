@@ -1,4 +1,4 @@
-
+//Problem 8: Write a program that finds the lowest number in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

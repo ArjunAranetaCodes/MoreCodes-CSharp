@@ -1,4 +1,4 @@
-
+//Problem 16: Write a program that deletes an element in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

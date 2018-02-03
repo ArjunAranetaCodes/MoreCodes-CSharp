@@ -1,4 +1,4 @@
-
+//Problem 3: Write a program that counts the occurence of an element in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

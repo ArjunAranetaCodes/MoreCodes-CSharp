@@ -1,4 +1,4 @@
-
+//Problem 7: Write a program that finds the largest number in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

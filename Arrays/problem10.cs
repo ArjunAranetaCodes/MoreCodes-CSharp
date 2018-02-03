@@ -1,4 +1,4 @@
-
+//Problem 10: Write a program that outputs the average of an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

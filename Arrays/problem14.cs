@@ -1,4 +1,4 @@
-
+//Problem 14: Write a program that outputs all odd numbers in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

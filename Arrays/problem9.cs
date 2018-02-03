@@ -1,4 +1,4 @@
-
+//Problem 9: Write a program that outputs the sum of an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

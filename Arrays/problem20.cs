@@ -1,4 +1,4 @@
-
+//Problem 20: Write a program that outputs the element closest to 0.
 using System;
 using System.Collections.Generic;
 using System.Linq;

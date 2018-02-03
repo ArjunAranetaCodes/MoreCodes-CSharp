@@ -1,4 +1,4 @@
-
+//Problem 4: Write a program that outputs the first and last elements of an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;

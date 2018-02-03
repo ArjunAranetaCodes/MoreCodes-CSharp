@@ -1,4 +1,4 @@
-
+//Problem 2: Write a program that gets the index of an element in an array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;
