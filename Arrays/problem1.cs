@@ -1,4 +1,4 @@
-
+//Problem 1: Write a program that outputs the length of array/list.
 using System;
 using System.Collections.Generic;
 using System.Linq;
